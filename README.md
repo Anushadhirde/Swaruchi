@@ -1,7 +1,6 @@
 # SwaRuchi – AI-Enabled Skill Intelligence & Learning Platform
 
-[![Smart India Hackathon 2026](https://img.shields.io/badge/SIH-2026-orange.svg)](https://sih.gov.in)
-[![Problem Statement ID](https://img.shields.io/badge/PS--ID-SIH26101-blue.svg)](https://sih.gov.in)
+
 [![MoSPI / NSSTA](https://img.shields.io/badge/Organization-MoSPI%2FNSSTA-emerald.svg)](https://mospi.gov.in)
 [![Framework](https://img.shields.io/badge/Tech-React%20%7C%20Vite%20%7C%20TailwindCSS-purple.svg)](https://vitejs.dev)
 [![AI Engine](https://img.shields.io/badge/LLM-Meta%20Llama%203.3%2070B-amber.svg)](https://meta.com)
@@ -130,9 +129,5 @@ Swaruchi/
 
 ---
 
-## Team Details
-
 - **Team Name**: Code_Cadets
-- **Hackathon**: Smart India Hackathon (SIH) 2026
-- **Problem Statement ID**: SIH26101
-- **Domain**: Official Statistical System (MoSPI / NSSTA)
+
